@@ -32,7 +32,8 @@ const removeAll = () => {
              
                     <figure>
                     <img src="https://cdn2.iconfinder.com/data/icons/business-office-icons/256/To-do_List-512.png" alt="img" />
-                        <figcaption >Add Your Lists Here</figcaption>
+                    <h1 id="heading">Personal Shopping List</h1>
+                        <figcaption >Add Your items Here</figcaption>
                     </figure>
 
                     <div className="addItems">
